@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="141f2514-c455-4ee8-ba21-24e161d412b2" name="Default Changelist" comment="" />
+    <list default="true" id="141f2514-c455-4ee8-ba21-24e161d412b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/hashTable/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,11 +18,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Qlaqp81DJ0tqlzbfuQ57CJXRbg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -27,7 +37,7 @@
       <recent name="$PROJECT_DIR$/src/Comp346" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinaryTreeDemo">
+  <component name="RunManager" selected="Application.Person">
     <configuration name="BinaryTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.Treep.BinaryTreeDemo" />
       <module name="First Code" />
@@ -54,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="School" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Comp353.A1Q2.School" />
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.hashTable.Person" />
       <module name="First Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Comp353.A1Q2.*" />
+          <option name="PATTERN" value="Practice.hashTable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestGameGrid.TestCalc" />
+    <configuration name="School" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comp353.A1Q2.School" />
       <module name="First Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestGameGrid.*" />
+          <option name="PATTERN" value="Comp353.A1Q2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Person" />
         <item itemvalue="Application.BinaryTreeDemo" />
         <item itemvalue="Application.comp346pa1driver" />
         <item itemvalue="Application.School" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.TestCalc" />
       </list>
     </recent_temporary>
   </component>
@@ -133,26 +143,26 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="990" y="207" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1586141519185" />
-    <state width="964" height="328" key="GridCell.Tab.0.bottom" timestamp="1586147326546">
+    <state width="964" height="328" key="GridCell.Tab.0.bottom" timestamp="1587002498292">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="964" height="328" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1586147326546" />
-    <state width="964" height="328" key="GridCell.Tab.0.center" timestamp="1586147326545">
+    <state width="964" height="328" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1587002498292" />
+    <state width="964" height="328" key="GridCell.Tab.0.center" timestamp="1587002498292">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="964" height="328" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1586147326545" />
-    <state width="964" height="328" key="GridCell.Tab.0.left" timestamp="1586147326545">
+    <state width="964" height="328" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1587002498292" />
+    <state width="964" height="328" key="GridCell.Tab.0.left" timestamp="1587002498291">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="964" height="328" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1586147326545" />
-    <state width="964" height="328" key="GridCell.Tab.0.right" timestamp="1586147326545">
+    <state width="964" height="328" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1587002498291" />
+    <state width="964" height="328" key="GridCell.Tab.0.right" timestamp="1587002498292">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="964" height="328" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1586147326545" />
-    <state x="517" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1586140767644">
+    <state width="964" height="328" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1587002498292" />
+    <state x="517" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1587001177520">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="517" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1586140767644" />
+    <state x="517" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1587001177520" />
     <state x="842" y="240" width="670" height="676" key="search.everywhere.popup" timestamp="1586141270861">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
