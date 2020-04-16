@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="141f2514-c455-4ee8-ba21-24e161d412b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/hashTable/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +17,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="nian" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Qlaqp81DJ0tqlzbfuQ57CJXRbg" />
@@ -136,33 +139,49 @@
       <option name="presentableId" value="Default" />
       <updated>1568347829470</updated>
     </task>
+    <task id="LOCAL-00001" summary="practice">
+      <created>1587002821577</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587002821577</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice" />
   </component>
   <component name="WindowStateProjectService">
     <state x="990" y="207" key="#com.intellij.ide.util.MemberChooser" timestamp="1586141519185">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="990" y="207" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1586141519185" />
-    <state width="964" height="328" key="GridCell.Tab.0.bottom" timestamp="1587002498292">
+    <state x="529" y="119" key="CommitChangelistDialog2" timestamp="1587002821464">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="964" height="328" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1587002498292" />
-    <state width="964" height="328" key="GridCell.Tab.0.center" timestamp="1587002498292">
+    <state x="529" y="119" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1587002821464" />
+    <state width="964" height="285" key="GridCell.Tab.0.bottom" timestamp="1587003053799">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="964" height="328" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1587002498292" />
-    <state width="964" height="328" key="GridCell.Tab.0.left" timestamp="1587002498291">
+    <state width="964" height="285" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1587003053799" />
+    <state width="964" height="285" key="GridCell.Tab.0.center" timestamp="1587003053799">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="964" height="328" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1587002498291" />
-    <state width="964" height="328" key="GridCell.Tab.0.right" timestamp="1587002498292">
+    <state width="964" height="285" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1587003053799" />
+    <state width="964" height="285" key="GridCell.Tab.0.left" timestamp="1587003053799">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="964" height="328" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1587002498292" />
-    <state x="517" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1587001177520">
+    <state width="964" height="285" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1587003053799" />
+    <state width="964" height="285" key="GridCell.Tab.0.right" timestamp="1587003053799">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="517" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1587001177520" />
+    <state width="964" height="285" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1587003053799" />
+    <state x="517" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1587003069255">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="517" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1587003069255" />
     <state x="842" y="240" width="670" height="676" key="search.everywhere.popup" timestamp="1586141270861">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
